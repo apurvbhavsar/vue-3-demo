@@ -1,4 +1,4 @@
-# task
+# Vue 3 Demo
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -33,4 +33,5 @@ npm run build
 ```sh
 npm run lint
 ```
-"# vue-3-demo" 
+
+"# vue-3-demo"
